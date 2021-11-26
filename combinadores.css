@@ -1,0 +1,24 @@
+h1 {
+  background-color: lightgray; /*solo h1*/
+}
+h2 {
+  background-color: lightcyan; /*solo h2*/
+}
+main p {
+  /* ESte sirve para combinar y agrupar */
+  /*descendientes directos de main que son p*/
+  background-color: rgb(112, 216, 199);
+}
+main > h4 {
+  /* solo hijos/descendientes directos de main que son h4*/
+  background-color: navy;
+}
+
+p + h2 {
+  /* hermano siguiente de p que son h2*/
+  background-color: lightsalmon;
+}
+p ~ h3 {
+  /* todos los hermanos siguientes a p que son h3*/
+  background-color: lightsteelblue;
+}
