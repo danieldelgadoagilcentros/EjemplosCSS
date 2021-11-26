@@ -1,5 +1,5 @@
 # Ejemplos de CSS
-Ejemplos sacados del github de Sergio Calvo.
+Ejemplos sacados del [GitHub de Sergio Calvo](https://github.com/SC-Agil/LMI/tree/ejemplosCSS).
 
 ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg "Logo de CSS")
 
